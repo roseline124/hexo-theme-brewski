@@ -1,24 +1,24 @@
-name: Brewski
-url: https://github.com/tiaanduplessis/hexo-theme-brewski
+name: Roseline
+url: https://github.com/roseline124/hexo-theme-brewski.git
 
 menu:
   Home: /
   About: /about
   Archives: /archives
-  GitHub: 
+  GitHub: https://github.com/roseline124/
   RSS: /atom.xml
 
 favicon: /favicon.svg
 logo: /logo.svg
 
 # Disqus shortname
-disqus:
+disqus: hyunji_song
 
 # Analytics
 google_analytics:
 
 # Copyright Infomation
 copyright:
-  since:
-  name: 
-  url: 
+  since: 2019
+  name: Roseline_Song
+  url: #사이트 주소
