@@ -4,6 +4,7 @@ url: https://github.com/roseline124/hexo-theme-brewski.git
 menu:
   Home: /
   Archives: /archives
+  Categories: /categories
   GitHub: https://github.com/roseline124/
   RSS: /atom.xml
 
