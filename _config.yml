@@ -3,7 +3,6 @@ url: https://github.com/roseline124/hexo-theme-brewski.git
 
 menu:
   Home: /
-  About: /about
   Archives: /archives
   GitHub: https://github.com/roseline124/
   RSS: /atom.xml
@@ -21,4 +20,4 @@ google_analytics:
 copyright:
   since: 2019
   name: Roseline_Song
-  url: #사이트 주소
+  url: https://roseline-song.netlify.com/
